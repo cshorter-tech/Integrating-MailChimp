@@ -1,0 +1,22 @@
+{
+  "name": "06mailchimpapp",
+  "version": "1.0.0",
+  "description": "Creating a subscription app using mailchimp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cshorter-tech@github.com/cshorter-tech/MailChimp-App-Integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshorter-tech/MailChimp-App-Integration/issues"
+  },
+  "homepage": "https://github.com/cshorter-tech/MailChimp-App-Integration#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
